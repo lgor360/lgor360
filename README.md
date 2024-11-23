@@ -1,3 +1,3 @@
-о привет! ты попал на профиль одного русского кота с кличкой "Okelote"! я новичок в разработке и пока дружу тока с bash-скриптами и *✨scratch✨*. всё. ну и на последок...
+hi! my name is Igor and i do some cool games and websites!
 
-# КОТ
+# CATS
