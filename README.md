@@ -12,4 +12,4 @@ here is my COOLEST projects!
 | name | link | language |
 |------|------|----------|
 | catgameGTK | https://github.com/lgor360/catgameGTK/ | python 3.12 |
-| igor360website (Github Pages) | https://github.com/lgor360/igor360website/ | html5 |
+| igor360website (github pages) | https://github.com/lgor360/igor360website/ | html5 |
