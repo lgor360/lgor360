@@ -1,7 +1,7 @@
 # about :3
 hi! my name is Igor and i do some cool games and websites!
 
-![shields.io badge](https://img.shields.io/badge/cat_smile-:3-482c63?labelColor=6d1bbf)
+![shields.io badge](https://img.shields.io/badge/cat_smile-:3-482c63?labelColor=6d1bbf&style=plastic)
 
 ![me](https://github.com/user-attachments/assets/a3c58b25-9b6e-460a-875f-a1e5722c7ed1)
 
