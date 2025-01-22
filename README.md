@@ -1,5 +1,5 @@
 # about :3
-hi! my name is Igor and i do some cool games and websites!
+hi! my name is igor and i do some cool games and websites!
 
 ![shields.io badge](https://img.shields.io/badge/cat_smile-:3-482c63?labelColor=6d1bbf&style=plastic)
 
