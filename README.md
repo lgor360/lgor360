@@ -14,7 +14,7 @@ here is my COOLEST projects!
 |------|------|----------|
 | catgameGTK | https://github.com/lgor360/catgameGTK/ | python 3.12 |
 | igor360website (github pages) | https://github.com/lgor360/igor360website/ | html5 |
-| oldemmi (github pages) | https://github.com/lgor360/oldemmi/ | html5 |
+| oldemmi (vercel) | https://github.com/lgor360/oldemmi/ | html5 |
 
 # toro
 ![toro](https://github.com/user-attachments/assets/923f557f-e828-4c42-819c-6f43ff797ab1)
