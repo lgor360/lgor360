@@ -16,6 +16,9 @@ here is my COOLEST projects!
 | igor360website (github pages) | https://github.com/lgor360/igor360website/ | html5 |
 | oldemmi (vercel) | https://github.com/lgor360/oldemmi/ | html5 |
 
+# what programming language i use
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgor360&layout=compact&theme=dark)
+
 # toro
 ![toro](https://github.com/user-attachments/assets/923f557f-e828-4c42-819c-6f43ff797ab1)
 
