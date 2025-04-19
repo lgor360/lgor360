@@ -5,6 +5,8 @@ hi! my name is igor and i do some cool games and websites!
 
 ![me](https://github.com/user-attachments/assets/a3c58b25-9b6e-460a-875f-a1e5722c7ed1)
 
+> [!WARNING]
+> а
 
 # my projects!
 
